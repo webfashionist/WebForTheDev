@@ -5,9 +5,8 @@ WebForTheDev
 
  
 
-\*\*News\*\*
-
- 
+News​
+----
 
 -   [HackerNews](https://news.ycombinator.com/): news aggregator for programmers
 
@@ -20,9 +19,10 @@ WebForTheDev
 
  
 
-\*\*German News\*\*
-
  
+
+German news
+-----------
 
 -   [Golem](https://www.golem.de/)
 
@@ -38,9 +38,8 @@ WebForTheDev
 
  
 
-\*\*IT Jobs in Germany\*\*
-
- 
+IT Jobs in Germany
+------------------
 
 -   [Heise Jobs](https://jobs.heise.de/)
 
