@@ -60,3 +60,4 @@ Feel free to suggest any updates by creating pull requests or issues.
 ## Others
 
 - [DevHumor](http://devhumor.com/): Humor for developers
+- [CommitStrip](http://www.commitstrip.com): The blog relating the daily life of web agency developers
