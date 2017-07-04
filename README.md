@@ -1,7 +1,9 @@
 WebForTheDev
 ============
 
- 
+This is a list of websites which may be interesting for web developers.
+
+Feel free to suggest any updates by creating pull requests or issues.
 
  
 
