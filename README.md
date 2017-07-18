@@ -13,6 +13,10 @@ Feel free to suggest any updates by creating pull requests or issues.
 - [Get colors from image](http://html-color-codes.info/colors-from-image/)
 - [PHP Live Regex](http://www.phpliveregex.com/): A live regular expression tester for PHP
 - [RegExr](http://regexr.com/): Test your JavaScript regular expressions
+
+
+## Snippets
+- [LittleSnippets.net](https://littlesnippets.net/): A CSS3/HTML snippets blog to inspire your website designs
 - [CodyHouse](https://codyhouse.co/): A free library of HTML, CSS, JS nuggets
 
 
@@ -31,18 +35,19 @@ Feel free to suggest any updates by creating pull requests or issues.
 - [Ab heute programmieren](https://www.html5rocks.com/en/): PHP, OOP, Docker, Laravel, MySQL, JavaScript einfach erklärt
 - [CoderByte](https://coderbyte.com/): Improve your coding skills
 - [Codecademy](https://www.codecademy.com)
+- [TutorialsPoint](https://www.tutorialspoint.com/)
 
 
-## News​
+## Tech news​
 
 - [HackerNews](https://news.ycombinator.com/): news aggregator for programmers
 - [TechCrunch](https://techcrunch.com/)
 - [ArsTechnica](https://arstechnica.com/)
-- [Better Dev Links](https://betterdev.link/): Weekly links to help you become
-    a better developer
+- [Better Dev Links](https://betterdev.link/): Weekly links to help you become a better developer
+- [CSS-Tricks](https://css-tricks.com/): Blog with focus on CSS articles
 
 
-## German news
+## German tech news
 
 - [Golem](https://www.golem.de/)
 - [Heise](https://www.heise.de/)
@@ -59,5 +64,7 @@ Feel free to suggest any updates by creating pull requests or issues.
 
 ## Others
 
+- [Awwwards](https://www.awwwards.com/): The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.
+- [DevRant](https://www.devrant.io/): Connect with fellow devs over code, tech & life as a programmer
 - [DevHumor](http://devhumor.com/): Humor for developers
 - [CommitStrip](http://www.commitstrip.com): The blog relating the daily life of web agency developers
